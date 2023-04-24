@@ -12,3 +12,24 @@ rev = rev * 10 + rem;
 return getReverse(num / 10, reverse);
 }
 }
+
+
+
+
+
+
+
+// easy step
+class tanay
+{
+public static void main(string[] args)
+{
+int n = 10899;
+
+while(n>o)
+{
+int lastdigit = n % 10;
+sop(lastdigit + " ");
+}
+sop();
+)
