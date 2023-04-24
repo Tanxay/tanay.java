@@ -1,0 +1,14 @@
+class tanay
+{
+public static void main(string[] args)
+{
+int num=1234, rev=0;
+sop("reverse number is: "+getReverse(num, rev));
+}
+if(num==0)
+return rev;
+int rem = num % 10;
+rev = rev * 10 + rem;
+return getReverse(num / 10, reverse);
+}
+}
