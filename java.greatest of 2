@@ -1,0 +1,15 @@
+class tanay
+{
+public static void main(string[] args)
+{
+int a = 100,b= 200,temp;
+if(a==b)
+{
+sop("both no. are equal: ");
+}
+else
+{
+temp = a > b? a:b;
+sop(temp + " is greatest no.");
+}
+}
